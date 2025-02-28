@@ -1,0 +1,92 @@
+.firstsection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 3rem;
+    color: #424242;
+}
+
+#signup_btn{
+    background-color: #387ed1;
+    color: #fff;
+    border-radius: 3px;
+    border-width: 1px;
+    /* padding-top: 0.6rem;
+    padding-left: 0.6rem; */
+    padding: 0.6rem 1.9rem;
+    font-size: 1.4rem;
+    cursor: pointer;
+    margin-top: 1.6rem;
+}
+
+#signup_btn:hover{
+    background-color: #424242;
+}
+
+.secondsection{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+    font-size: 1.6rem;
+    color: #424242;
+}
+
+.secondsection h1{
+    font-size: 2rem;
+}
+
+.secondsection h2{
+    font-size: 1.6rem;
+}
+
+.secondsection p{
+    font-size: 1.3rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+#news{
+    display: block;
+    margin: auto;
+}
+
+.thirdsection{
+    display: flex;
+    flex-direction: column;
+    padding: 0 4rem;
+    color: #424242;
+
+}
+
+.pricing{
+    display: flex;
+}
+
+#price{
+    display: flex;
+    align-items: center;
+}
+
+/* #link{
+    text-decoration: none;
+} */
+
+.fourthsection{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #424242;
+}
+
+.fifthsection{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#varsity{
+    width: 40%;
+}

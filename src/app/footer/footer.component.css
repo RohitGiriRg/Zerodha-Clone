@@ -1,0 +1,23 @@
+.footer{
+    background-color: #fbfbfb;
+    padding-left: 3.1rem;
+    padding-top: 2.5rem;
+    display: flex;
+}
+
+#partone{
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 3.1rem;
+    padding-right: 3.1rem;
+    padding-top: 2.5rem;
+    color: #666;
+}
+
+#parttwo{
+    display: flex;
+    /* justify-content: space-between; */
+    /* padding-left: 3.1rem; */
+    /* padding-right: 3.1rem; */
+    /* padding-top: 2.5rem; */
+}
